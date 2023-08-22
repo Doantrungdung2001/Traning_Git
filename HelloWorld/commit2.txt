@@ -1,3 +1,6 @@
 
 echo "commit 2" > commit2.txt
+<<<<<<< HEAD
 fasdfasfadsf
+=======
+>>>>>>> origin/test
